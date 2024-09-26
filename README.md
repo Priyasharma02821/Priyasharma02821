@@ -1,10 +1,12 @@
 ## Software Developer
 
-##⭐ Leetcode Stats
+<h2 align="center"> ⭐Leetcode Stats </h2>
+
 ![](https://leetcard.jacoblin.cool/priyasharma2808?ext=heatmap)
 
-##⭐ GeeksforGeeks Stats 
+
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=priyasharm5zol)](https://auth.geeksforgeeks.org/user/priyasharm5zol/practice/)
+
 <br/>
   <h2 align="center"> ✨ Progress Flow ✨</h2>
 <br>
