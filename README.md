@@ -4,6 +4,7 @@
 
 ![](https://leetcard.jacoblin.cool/priyasharma2808?ext=heatmap)
 
+<h2 align="center"> ⭐GeeksforGeeks Stats</h2>
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=priyasharm5zol)](https://auth.geeksforgeeks.org/user/priyasharm5zol/practice/)
 
