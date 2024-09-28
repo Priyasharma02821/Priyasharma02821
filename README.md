@@ -1,9 +1,12 @@
 ## Software Developer
 
-<a href="https://www.linkedin.com/in/kumari-priya-sharma-94a101230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kumari-priya-sharma-94a101230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumari-priya-sharma-94a101230" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/Sh20851322Priya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/Sh20851322Priya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sh20851322Priya" height="30" width="40" /></a>
 &nbsp;
+<a href="https://codolio.com/profile/%20priyasharma2808" target="_blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="priyasharma2808" height="30" width="40" /></a>
+&nbsp;
+
 
 <h2 align="center"> ⭐Leetcode Stats </h2>
 
