@@ -6,6 +6,8 @@
 &nbsp;
 <a href="https://codolio.com/profile/%20priyasharma2808" target="_blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="priyasharma2808" height="30" width="40" /></a>
 &nbsp;
+<a href="https://www.codechef.com/users/each_trick_31" target="_blank"><img align="center" src="file:///C:/Users/Hp/Downloads/codechef.svg" alt="each_trick_31" height="30" width="40" /></a>
+&nbsp;
 
 
 <h2 align="center"> ⭐Leetcode Stats </h2>
