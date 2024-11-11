@@ -46,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/web3hack.png?imwidth=96" width="100px" height="100px" />
   <br>
-  
+  ![GSSoC24_Stats](https://github.com/user-attachments/assets/05fcd845-41ac-4580-bc41-6b6e8022991a)
 
 
   
