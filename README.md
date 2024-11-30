@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://leetcode.com/u/priyasharma2808/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/priyasharma2808/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/priyasharma2808/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 
 ![](https://leetcard.jacoblin.cool/priyasharma2808?ext=heatmap)
